@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Thanks for visiting！
 
 <!--
 **Lucca-cherries/Lucca-cherries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on Computer Vision, Reinforcement Learning and Robotics
