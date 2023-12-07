@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Computer Vision, Reinforcement Learning, and Robotics.
+- 🔭 I’m currently working on Computer Vision, Reinforcement Learning, and Robotics, with a focus on video understanding and robotic manipulation.🤖
 - 🏸 Do you play some sports?
 - 📚 I love reading.
 - 🤝Let's become friends!
