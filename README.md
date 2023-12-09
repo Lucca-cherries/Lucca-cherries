@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision, Reinforcement Learning, and Robotics, with a focus on video understanding and robotic manipulation.🤖
 - 🏸 Do you play some sports?
-- 📚 I love reading.
+- 📚 I love reading. I'm a daydreamer and overthinker.
 - 🤝Let's become friends!
